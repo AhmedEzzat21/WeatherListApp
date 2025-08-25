@@ -1,3 +1,7 @@
+## 🌤 WeatherListApp
+
+A simple, clean iOS 16+ SwiftUI application that lets users search for cities, save them to a favorites list, and view current weather conditions. Supports offline persistence, pull-to-refresh, and detailed weather info.
+
 ## ✨ Features
 
 🔍 Search Cities
